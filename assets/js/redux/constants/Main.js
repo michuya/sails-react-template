@@ -1,0 +1,1 @@
+export const REGENERATE = 'MAIN_REGENERATE';
